@@ -49,7 +49,7 @@ zipco-pipeline/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/zipco-pipeline.git
+git clone https://github.com/rofiatkareem/zipco-pipeline.git
 cd zipco-pipeline
 ```
 
