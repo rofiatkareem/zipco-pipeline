@@ -97,7 +97,7 @@ dim_date → calendar date dimension
 fact_listings → ties to location, office, property, date dimensions
 Contains metrics such as full_address, latitude, longitude, listed_date, removed_date
 ```
-6. Power BI Visualization
+### Power BI Visualization
 You can connect Power BI directly to the zipco_production PostgreSQL database:
 Build dashboards such as:
 Top 5 offices per city
